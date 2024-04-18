@@ -50,6 +50,7 @@ These images showcase a collection of projects and activities I've undertaken ov
 ---
 ##### Older works:
 
-![ha](./img1/ha.png)
+![ha](./img1/ha1.png)
+![ha2](./img1/ha2.png)
 
 
