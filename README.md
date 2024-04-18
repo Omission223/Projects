@@ -95,5 +95,140 @@ These images showcase a collection of projects and activities I've undertaken ov
 *LCD backlight bleed on an iPhone and a smartwatch, not good...*
 
 ![pc](./img1/p25.jpg)
+
+*I love using Fractal cases for PC builds. Classy looking with top of the line performance and impressive build quality.*
+
 ![pc](./img1/p27.jpg)
-*Well, sometimes when you build a pc, the room can look like this :smile:*
+
+*Well, sometimes when you build a pc, the room can look like this* :smile:
+
+![pc](./img1/p26.jpg)
+
+*Yes, I like Noctua coolers, probably have like 8 of them lying around. Reliable, top of the class for over a decade, and can find them cheap used, so it's my go to choice for air coolers.*
+
+![pc](./img1/p28.jpg)
+
+*Testing if everything works before I finish assembly* :smiley:
+
+![pc](./img1/p29.jpg)
+![pc](./img1/p30.jpg)
+![pc](./img1/p31.jpg)
+
+*Cable managed this the best I could, I tend to redo it as many times as it takes to get the best result, since I like to put attention to detail.*
+
+![pc](./img1/p32.jpg)
+![pc](./img1/tools.png)
+
+*Here you can see the typical programs I use to test and diagnose PC's, so let's see some of them in action*
+
+![pc](./img1/r3.jpg)
+![pc](./img1/r4.jpg)
+![pc](./img1/r5.jpg)
+
+*Uh oh, memory errors, that means that most likely the RAM is defective.*
+
+![pc](./img1/r7.jpg)
+![pc](./img1/r6.jpg)
+
+*That means I had to RMA the item. Had to procure something else for the customer in the meantime.
+
+![pc](./img1/r8.png)
+![pc](./img1/r9.jpeg)
+![pc](./img1/r10.jpg)
+![pc](./img1/r10_2.jpg)
+
+*I found this one funny, the way the BIOS got corrupted.*
+
+![pc](./img1/r10.jpg)
+![pc](./img1/r11_2.jpg)
+![pc](./img1/r11.jpg)
+![pc](./img1/r12.jpg)
+![pc](./img1/r21.jpg)
+![pc](./img1/r22.jpg)
+![pc](./img1/r23.jpg)
+![pc](./img1/r24.jpg)
+![pc](./img1/r25.jpg)
+
+*Yes, I also like to overclock stuff, to maximize performance.*
+
+![pc](./img1/r13.jpg)
+![pc](./img1/r14.jpg)
+![pc](./img1/r35.jpg)
+![pc](./img1/r36.jpg)
+![pc](./img1/r37.jpg)
+![pc](./img1/r38.jpg)
+![pc](./img1/r39.jpg)
+![pc](./img1/r47.jpg)
+
+*Sometimes you get stuff like this, that absolutely needs a good clean to function properly* :smiley:
+
+![pc](./img1/r70.jpg)
+
+*And sometimes you get stuff that clearly has seen some water where there should be no water* :smiley:
+
+![pc](./img1/r15.jpg)
+
+*Soldering in some new switches*
+
+![pc](./img1/r16.jpg)
+
+![pc](./img1/r17.jpg)
+![pc](./img1/r18.jpg)
+![pc](./img1/r19.jpg)
+![pc](./img1/r20.jpg)
+
+*Electronics repair again*
+
+![pc](./img1/r26.jpg)
+![pc](./img1/r27.jpg)
+![pc](./img1/r28.jpg)
+
+*Modifying headphones with a custom detachable jack*
+
+![pc](./img1/r33.jpg)
+![pc](./img1/r34.jpg)
+
+*Sometimes my test bench looks like this to be able to test parts properly* :smile:
+
+![pc](./img1/r30.jpg)
+![pc](./img1/r31.jpg)
+![pc](./img1/r32.jpg)
+![pc](./img1/r40.jpg)
+![pc](./img1/r41.jpg)
+![pc](./img1/r42.jpg)
+![pc](./img1/r43.jpg)
+![pc](./img1/r45.jpg)
+![pc](./img1/r46.jpg)
+![pc](./img1/r48.jpg)
+![pc](./img1/r49.jpg)
+![pc](./img1/r50.jpg)
+![pc](./img1/r51.jpg)
+![pc](./img1/r52.jpg)
+![pc](./img1/r53.jpg)
+![pc](./img1/r54.jpg)
+![pc](./img1/r56.jpg)
+![pc](./img1/r57.jpg)
+![pc](./img1/r58.jpg)
+![pc](./img1/r59.jpeg)
+![pc](./img1/r60.jpeg)
+![pc](./img1/r61.jpeg)
+![pc](./img1/r62.jpeg)
+![pc](./img1/r63.jpeg)
+![pc](./img1/r71.jpg)
+![pc](./img1/r72.jpg)
+
+*Some more repair, diagnostics and building PC's stuff*
+
+![pc](./img1/r64.jpg)
+![pc](./img1/r65.jpg)
+![pc](./img1/r66.jpg)
+![pc](./img1/r67.jpg)
+![pc](./img1/r68.jpg)
+![pc](./img1/r69.jpg)
+![pc](./img1/r73.jpg)
+
+*And some more diagnostic and troubleshooting stuff.*
+
+I think this is enough. Again, the main point of these images is to prove that I kept myself busy and worked on many things. If you have any questions, do not hesitate to ask, I will be more than happy to answer.
+
+---
