@@ -130,7 +130,7 @@ These images showcase a collection of projects and activities I've undertaken ov
 ![pc](./img1/r7.jpg)
 ![pc](./img1/r6.jpg)
 
-*That means I had to RMA the item. Had to procure something else for the customer in the meantime.
+*That means I had to RMA the item. Had to procure something else for the customer in the meantime.*
 
 ![pc](./img1/r8.png)
 ![pc](./img1/r9.jpeg)
