@@ -185,8 +185,8 @@ These images showcase a collection of projects and activities I've undertaken ov
 
 *Modifying headphones with a custom detachable jack*
 
-![pc](./img1/r33.jpg)
-![pc](./img1/r34.jpg)
+![pc](./img1/r33.JPG)
+![pc](./img1/r34.JPG)
 
 *Sometimes my test bench looks like this to be able to test parts properly* :smile:
 
@@ -204,11 +204,11 @@ These images showcase a collection of projects and activities I've undertaken ov
 ![pc](./img1/r50.jpg)
 ![pc](./img1/r51.jpg)
 ![pc](./img1/r52.jpg)
-![pc](./img1/r53.jpg)
-![pc](./img1/r54.jpg)
+![pc](./img1/r53.JPG)
+![pc](./img1/r54.JPG)
 ![pc](./img1/r56.jpg)
 ![pc](./img1/r57.jpg)
-![pc](./img1/r58.jpg)
+![pc](./img1/r58.JPG)
 ![pc](./img1/r59.jpeg)
 ![pc](./img1/r60.jpeg)
 ![pc](./img1/r61.jpeg)
@@ -229,6 +229,6 @@ These images showcase a collection of projects and activities I've undertaken ov
 
 *And some more diagnostic and troubleshooting stuff.*
 
-I think this is enough. Again, the main point of these images is to prove that I kept myself busy and worked on many things. If you have any questions, do not hesitate to ask, I will be more than happy to answer.
+I think this is enough. Again, the main point of these images is to prove that I kept myself busy and worked on many things. If you have any questions, please do not hesitate to ask, I will be more than happy to answer.
 
 ---
