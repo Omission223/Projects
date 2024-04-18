@@ -1,6 +1,6 @@
 # Projects
 
-### Disclaimer:
+## Disclaimer:
 
 These images showcase a collection of projects and activities I've undertaken over the past few years. Due to the volume of images, I recommend scrolling through them quickly to save time. While I'll provide explanations for some of the pictures, I may not cover them all. However, if you have any questions, please don't hesitate to ask—I'm more than happy to provide detailed explanations for each image. Additionally, if desired, I can provide more pictures beyond the ones uploaded, since this is just a small part of the collection of images that I have.
 
@@ -13,9 +13,9 @@ These images showcase a collection of projects and activities I've undertaken ov
 :warning: I kindly request that you respect my privacy. These pictures are intended for viewing by individuals directly involved in the hiring process. Therefore, I ask that they not be downloaded, shared, or distributed in any way. After the hiring process is complete, this repository will be made private, and the link will no longer be accessible.
 
 ---
-### PC, Hardware, repair, testing, electronics and other stuff
+## PC, Hardware, repair, testing, electronics and other stuff
 
-##### Some of the things I did the past month:
+### Some of the things I did the past month:
 
 ![screen](./img1/p1.jpg)
 
@@ -48,9 +48,52 @@ These images showcase a collection of projects and activities I've undertaken ov
 
 
 ---
-##### Older works:
+### Older works:
 
 ![ha](./img1/ha1.png)
 ![ha2](./img1/ha2.png)
 
 
+*Home assistant with it's typical dashboard. It's Linux based OS specifically designed for home automation. You can see my dashboard here, although all the sensors are down, since I moved places recently, and all of my home automation stuff is back at the other house. You can see that virtualization is being used, since I use VirtualBox to run it, while also using Superputty to manage the access remotely to my various instances of operating systems.*
+
+![ph](./img1/p14.jpg)
+
+*A phone with back glass cracked, and also fingerprint sensor issues. Let's see how I manage to fix it...*
+
+![ph](./img1/p15.jpg)
+![ph](./img1/p16.jpg)
+
+*Oem replacement from official distributor. Had to transfer camera lens too.*
+
+![ph](./img1/p17.jpg)
+![ph](./img1/p19.jpg)
+
+*You can see some other parts, like displays and sensors in the background of this picture.*
+
+![ph](./img1/p20.jpg)
+![ph](./img1/p21.jpg)
+![ph](./img1/p22.jpg)
+![ph](./img1/p23.jpg)
+
+*Job well done, can't even tell that anything has happened to this phone, looks brand new.*
+
+![ph](./img1/p24.jpg)
+![ph](./img1/p10_2.jpg)
+![ph](./img1/p11.jpg)
+![ph](./img1/p12.jpg)
+![ph](./img1/p13.jpg)![ph](./img1/p25_2.jpg)
+
+*Some more phone stuff.*
+
+![ph](./img1/r1.jpg)
+
+*Broken connector on a motherboard.*
+
+![ph](./img1/r2.jpg)
+![ph](./img1/r2_2.jpg)
+
+*LCD backlight bleed on an iPhone and a smartwatch, not good...*
+
+![pc](./img1/p25.jpg)
+![pc](./img1/p27.jpg)
+*Well, sometimes when you build a pc, the room can look like this :smile:*
